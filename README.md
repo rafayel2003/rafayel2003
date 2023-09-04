@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Rafayel Movsisyan
+#### Front-End Web Developer
+![Front-End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**rafayel2003/rafayel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End developer with more than two years of experience helping companies create and maintain a better code base for reusability.Passionate about learning and development with a desire to apply skills on a larger development team.Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
